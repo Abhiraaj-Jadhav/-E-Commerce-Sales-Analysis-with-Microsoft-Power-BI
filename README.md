@@ -20,10 +20,16 @@ Bar charts, line charts, and pie charts for trend analysis.
 Drill-down capabilities to analyze sales by region, category, and time.
 
 
-
 ### 📊 Insights
 📈 Sales Trends: Clear visualization of seasonal sales trends and peak sales periods.
 
 🌍 Regional Analysis: Identified high-performing regions and target customer segments.
 
 🛒 Category Breakdown: Evaluated product categories driving revenue and those needing optimization.
+
+
+### 🖼️ Dashboard Snapshots
+Sales Performance Overview
+
+![E-Commerce SS](https://github.com/user-attachments/assets/a550d2ea-473d-4844-a4d7-db388ee5b969)
+
